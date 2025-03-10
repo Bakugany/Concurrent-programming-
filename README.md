@@ -1,2 +1,1 @@
-# Concurrent-programming-
-Projects from course of concurrent programming at University of Warsaw
+Project from course of concurrent programming at university of Warsaw
